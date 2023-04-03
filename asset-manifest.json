@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-homework-template/static/css/main.af13c260.css",
+    "main.js": "/react-homework-template/static/js/main.210f730a.js",
+    "static/media/close-svgrepo-com.svg": "/react-homework-template/static/media/close-svgrepo-com.5d2ad6ed6ae0c1f48792.svg",
+    "index.html": "/react-homework-template/index.html",
+    "main.af13c260.css.map": "/react-homework-template/static/css/main.af13c260.css.map",
+    "main.210f730a.js.map": "/react-homework-template/static/js/main.210f730a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af13c260.css",
+    "static/js/main.210f730a.js"
+  ]
+}
