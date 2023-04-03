@@ -1,5 +1,5 @@
-import React from "react";
-import style from "./ContactList.module.css";
+import React from 'react';
+import style from './ContactList.module.css';
 const ContactList = ({ contacts, onDeleteContact }) => (
   <ul className={style.list}>
     <p>Contacts</p>
@@ -7,7 +7,7 @@ const ContactList = ({ contacts, onDeleteContact }) => (
       <li className={style.item} key={id}>
         <p>
           {name}
-          {"---------->"}
+          {'---------->'}
           {number}
         </p>
 
